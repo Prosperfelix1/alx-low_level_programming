@@ -4,10 +4,11 @@
 
 /**
  * main - A program that prints the alphabet in lowercase
+ *
  * Return: 0
  */
 
-int mai(void)
+int main(void)
 
 {
 	char low, e, q;
